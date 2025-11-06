@@ -153,3 +153,11 @@ nav li:hover {
 .voltar:hover {
     background-color: rgb(255, 142, 101);
 }
+
+#menu{
+  text-decoration: none;
+}
+
+#menu:hover{
+  color: #12a3aa;
+}
